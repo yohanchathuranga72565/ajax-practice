@@ -1,0 +1,14 @@
+{
+    "persons": [
+        {
+            "name" : "senaid",
+            "lname" : "B",
+            "favcolors" : ["blue","green"]
+        },
+        {
+            "name" : "jonny",
+            "lname" : "A",
+            "favcolors" : ["white","black"]
+        }
+    ]
+}
